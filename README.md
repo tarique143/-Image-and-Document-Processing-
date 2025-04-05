@@ -13,7 +13,7 @@ A Streamlit-based application that leverages AI and OCR to intelligently process
 - 💡 Automatic extraction of key insights like total amounts and expiry dates
 - 📊 Visual display of detected items using bounding boxes
   ## UI Preview
-  ![UI Preview](task3img.png) <!-- Add screenshot after UI is done -->
+  ![UI Preview](task3.PNG) <!-- Add screenshot after UI is done -->
 
 ## 💡 Use Cases
 
