@@ -12,6 +12,8 @@ A Streamlit-based application that leverages AI and OCR to intelligently process
 - 🔡 OCR (Optical Character Recognition) using **EasyOCR** to extract text from images
 - 💡 Automatic extraction of key insights like total amounts and expiry dates
 - 📊 Visual display of detected items using bounding boxes
+  ## UI Preview
+  ![UI Preview](task3img.jpeg) <!-- Add screenshot after UI is done -->
 
 ## 💡 Use Cases
 
